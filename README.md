@@ -4,7 +4,12 @@
 
 There is no single best model for every application. Start with your task: what quality do you need, how quickly must it respond, and what can you afford?
 
-Use these two Colab notebooks—**Compare** and **Agent**—to compare individual or combined metrics and find similar alternatives. Build a shortlist, test it on real examples from your application, and explain your choice using evidence.
+Use these two Colab notebooks to compare individual or combined metrics and find similar alternatives:
+
+- [Compare/Find Similar Models: Artificial Analysis Data](https://colab.research.google.com/github/elaheJ/IT344-IllinoisStateUniversity-Model-Comparison-using-Artificial-Analysis-Utility-Colabs/blob/main/Compare_Find_Similar_Models_Artificial_Analysis_Data.ipynb)
+- [Compare/Find Similar Models: Artificial Analysis Data (LLM Agent)](https://colab.research.google.com/github/elaheJ/IT344-IllinoisStateUniversity-Model-Comparison-using-Artificial-Analysis-Utility-Colabs/blob/main/Compare_Find_Similar_Models_Artificial_Analysis_Data_LLM_Agent.ipynb)
+
+Build a shortlist, test it on real examples from your application, and explain your choice using evidence.
 
 **Start:** Open either notebook in Colab, enable `AA_API_KEY` in Secrets, and run its single **Start the app** cell. The interactive controls appear in the cell output.
 
