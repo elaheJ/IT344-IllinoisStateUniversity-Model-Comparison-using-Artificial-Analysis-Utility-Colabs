@@ -6,4 +6,4 @@ There is no single best model for every application. Start with your task: what 
 
 Use these two Colab notebooks—**Compare** and **Agent**—to compare individual or combined metrics and find similar alternatives. Build a shortlist, test it on real examples from your application, and explain your choice using evidence.
 
-**Credit:** Model benchmark and pricing data come from [Artificial Analysis](https://artificialanalysis.ai/). Thank you to Artificial Analysis for making these comparisons possible. These notebooks are classroom learning tools, not an official Artificial Analysis product.
+**Credit:** Model benchmark and pricing data come from [Artificial Analysis](https://artificialanalysis.ai/). Thank you to Artificial Analysis for making these comparisons possible.
